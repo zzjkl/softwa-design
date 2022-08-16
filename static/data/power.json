@@ -1,0 +1,174 @@
+[
+  {
+  "system": "CW1",
+  "id": "WCW103LN",
+  "name": "WCW001MO上部轴承润滑油液位"
+  },
+  {
+    "system": "CW1",
+    "id": "WCW105LN",
+    "name": "WCW001MO下部轴承润滑油液位"
+  },
+  {
+    "system": "CW1",
+    "id": "WCW101SH",
+    "name": "WCW001MO冷却器泄漏探测开关"
+  },
+  {
+    "system": "CW1",
+    "id": "WCW103SH",
+    "name": "WCW001MO冷却器泄漏探测开关"
+  },
+  {
+    "system": "CW1",
+    "id": "WCW103SD/L",
+    "name": "WCW001MO冷却水流量就地测量及开关"
+  },
+  {
+    "system": "CW1",
+    "id": "WCW105SD/L",
+    "name": "WCW001MO下部轴承润滑油冷却器冷却水流量就地测量及开关"
+  },
+  {
+    "system": "CW1",
+    "id": "WCW107SD/L",
+    "name": "WCW001MO非驱动端轴承润滑油冷却器冷却水流量就地测量及开关"
+  },
+  {
+    "system": "CW1",
+    "id": "WCW101MV",
+    "name": "WCW001MO轴承非驱动端X向振动在线监测"
+  },
+  {
+    "system": "CW1",
+    "id": "WCW103MV",
+    "name": "WCW001MO轴承非驱动端Y向振动在线监测"
+  },
+  {
+    "system": "CW1",
+    "id": "WCW105MV",
+    "name": "WCW001MO轴承非驱动端Z向振动在线监测"
+  },
+  {
+    "system": "CW1",
+    "id": "WCW113MT",
+    "name": "WCW001MO U相绕阻温度"
+  },
+  {
+    "system": "CW1",
+    "id": "WCW115MT",
+    "name": "WCW001MO U相绕阻温度"
+  },
+  {
+    "system": "CW1",
+    "id": "WCW117M",
+    "name": "WCW001MO U相绕阻温度"
+  },
+  {
+    "system": "CW1",
+    "id": "WCW119MT",
+    "name": "WCW001MO V相绕阻温度"
+  },
+  {
+    "system": "CW1",
+    "id": "WCW121MT",
+    "name": "WCW001MO V相绕阻温度"
+  },
+  {
+    "system": "CW1",
+    "id": "WCW123MT",
+    "name": "WCW001MO V相绕阻温度"
+  },
+  {
+    "system": "CW1",
+    "id": "WCW125MT",
+    "name": "WCW001MO W相绕阻温度"
+  },
+  {
+    "system": "CW1",
+    "id": "WCW127MT",
+    "name": "WCW001MO W相绕阻温度"
+  },
+  {
+    "system": "CW1",
+    "id": "WCW129MT",
+    "name": "WCW001MO W相绕阻温度"
+  },
+  {
+    "system": "CW1",
+    "id": "WCW101MT",
+    "name": "WCW001MO上部导轴承温度"
+  },
+  {
+    "system": "CW1",
+    "id": "WCW103MT",
+    "name": "WCW001MO上部导轴承温度"
+  },
+  {
+    "system": "CW1",
+    "id": "WCW105MT",
+    "name": "WCW001MO上部导轴承温度"
+  },
+  {
+    "system": "CW1",
+    "id": "WCW107MT",
+    "name": "WCW001MO下部导轴承温度"
+  },
+  {
+    "system": "CW1",
+    "id": "WCW109MT",
+    "name": "WCW001MO下部导轴承温度"
+  },
+  {
+    "system": "CW1",
+    "id": "WCW111MT",
+    "name": "WCW001MO下部导轴承温度"
+  },{
+  "system": "CW1",
+  "id": "WCW155MT",
+  "name": "WCW001MO推力轴承温度"
+},
+  {
+    "system": "CW1",
+    "id": "WCW157MT",
+    "name": "WCW001MO推力轴承温度"
+  },{
+  "system": "CW1",
+  "id": "WCW159MT",
+  "name": "WCW001MO推力轴承温度"
+},
+  {
+    "system": "CW1",
+    "id": "WCW111LT",
+    "name": "WCW001MO冷却器出口温度"
+  },{
+  "system": "CW1",
+  "id": "WCW121LT",
+  "name": "WCW001MO冷却器进口温度"
+},{
+  "system": "CW1",
+  "id": "WCW131LT",
+  "name": "WCW001MO冷却器出口温度"
+},{
+  "system": "CW1",
+  "id": "WCW141LT",
+  "name": "WCW001MO冷却器出口温度"
+},{
+  "system": "CW1",
+  "id": "WCW151LT",
+  "name": "WCW001MO冷却器进口温度"
+},{
+  "system": "CW1",
+  "id": "WCW161LT",
+  "name": "WCW001MO冷却器出口温度"
+},{
+  "system": "CW1",
+  "id": "WCW171LT",
+  "name": "WCW001MO推力轴承温度"
+},{
+  "system": "CW1",
+  "id": "WCW181LT",
+  "name": "WCW001MO下导轴承温度"
+}
+
+]

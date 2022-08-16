@@ -1,0 +1,64 @@
+[{
+  "system": "CW1",
+  "id": "WCW107LP",
+  "name": "WCW001PO冷却水进口压力"
+},{
+  "system": "CW1",
+  "id": "WCW107MV",
+  "name": "WCW001PO齿轮箱轴承处X向振动在线监测"
+},{
+  "system": "CW1",
+  "id": "WCW109MV",
+  "name": "WCW001PO齿轮箱轴承处Z向振动在线监测"
+},{
+  "system": "CW1",
+  "id": "WCW131MT",
+  "name": "WCW001PO齿轮箱推力轴承温度"
+},{
+  "system": "CW1",
+  "id": "WCW133MT",
+  "name": "WCW001PO齿轮箱推力轴承温度"
+},{
+  "system": "CW1",
+  "id": "WCW135MT",
+  "name": "WCW001PO齿轮箱推力轴承温度"
+},{
+  "system": "CW1",
+  "id": "WCW143MT",
+  "name": "WCW001PO齿轮箱上部导向轴承温度"
+},{
+  "system": "CW1",
+  "id": "WCW145MT",
+  "name": "WCW001PO齿轮箱上部导向轴承温度"
+},{
+  "system": "CW1",
+  "id": "WCW147MT",
+  "name": "WCW001PO齿轮箱上部导向轴承温度"
+},{
+  "system": "CW1",
+  "id": "WCW137MT",
+  "name": "WCW001PO齿轮箱下部导向轴承温度"
+},{
+  "system": "CW1",
+  "id": "WCW139MT",
+  "name": "WCW001PO齿轮箱下部导向轴承温度"
+},{
+  "system": "CW1",
+  "id": "WCW141MT",
+  "name": "WCW001PO齿轮箱下部导向轴承温度"
+},{
+  "system": "CW1",
+  "id": "WCL001MP",
+  "name": "WCL系统低压供油口远传压力显示(WCW001PO)"
+},{
+  "system": "CW1",
+  "id": "WCL005MP",
+  "name": "WCL系统低压供油口远传压力显示(WCW001PO)"
+},{
+  "system": "CW1",
+  "id": "WCL007MP",
+  "name": "WCL系统低压供油口远传压力显示(WCW001PO)"
+}
+
+
+]

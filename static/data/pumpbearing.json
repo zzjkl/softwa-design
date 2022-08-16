@@ -1,0 +1,25 @@
+[{
+  "system": "CW1",
+  "id": "WCW103LP",
+  "name": "WCW001PO轴承密封水进口压力"
+},{
+  "system": "CW1",
+  "id": "WCW111MD/L",
+  "name": "泵轴承密封水流量"
+},{
+  "system": "CW1",
+  "id": "WCW101LP",
+  "name": "WCW001PO轴承维修密封空气进口压力"
+},{
+  "system": "CW1",
+  "id": "WCW101SP",
+  "name": "WCW001PO轴承维修密封空气进口压力开关"
+},{
+  "system": "CW1",
+  "id": "WCW105SP",
+  "name": "WCW001PO轴承维修密封空气进口压力开关"
+}
+
+
+
+]

@@ -1,0 +1,40 @@
+[{
+  "system": "CW1",
+  "id": "WCW101LN",
+  "name": "WCW001PO导轴承润滑油液位"
+},{
+  "system": "CW1",
+  "id": "WCW101SN",
+  "name": "WCW001PO导向轴承润滑油油位开关"
+},{
+  "system": "CW1",
+  "id": "WCW103SN",
+  "name": "WCW001PO导向轴承润滑油油位开关"
+},{
+  "system": "CW1",
+  "id": "WCW109SD/L",
+  "name": "WCW001PO下部轴承润滑油冷却器冷却水流量就地测量及开关"
+},{
+  "system": "CW1",
+  "id": "WCW149MT",
+  "name": "WCW001PO导向轴承温度"
+},{
+  "system": "CW1",
+  "id": "WCW151MT",
+  "name": "WCW001PO导向轴承温度"
+},{
+  "system": "CW1",
+  "id": "WCW153MT",
+  "name": "WCW001PO导向轴承温度"
+},{
+  "system": "CW1",
+  "id": "WCW123LT",
+  "name": "WCW 001PO导向轴承温度"
+},{
+  "system": "CW1",
+  "id": "WCW125LT",
+  "name": "WCW 001PO导向轴承温度"
+}
+
+
+]
